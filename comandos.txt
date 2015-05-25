@@ -1,0 +1,6 @@
+help;
+changeCadencia 40 1;
+changePeriodo 1.0 1;
+changeCadencia 50 2;
+changePeriodo 0.6 2;
+changeCadencia 120 0;

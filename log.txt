@@ -1,0 +1,42 @@
+[0:00:00:00] - La pendiente para el ciclista[0] ha cambiado:
+Punto metrico actual: 0.0
+Pendiente actual: 0.0
+[0:00:00:00] - La pendiente para el ciclista[1] ha cambiado:
+Punto metrico actual: 0.0
+Pendiente actual: 0.0
+[0:00:00:00] - La pendiente para el ciclista[2] ha cambiado:
+Punto metrico actual: 0.0
+Pendiente actual: 0.0
+[0:00:00:00] - La pendiente para el ciclista[3] ha cambiado:
+Punto metrico actual: 0.0
+Pendiente actual: 0.0
+[0:00:00:00] - La carrera comienza con 4 ciclistas
+[0:00:00:03] - Se ha cambiado la cadencia del ciclista[1]:
+Cadencia: 40
+[0:00:00:04] - Se ha cambiado el tiempo en dar una pedalada del ciclista[1]:
+Periodo: 40
+[0:00:00:05] - Se ha cambiado la cadencia del ciclista[2]:
+Cadencia: 50
+[0:00:00:06] - Se ha cambiado el tiempo en dar una pedalada del ciclista[2]:
+Periodo: 50
+[0:00:00:07] - Se ha cambiado la cadencia del ciclista[0]:
+Cadencia: 120
+[0:00:00:07] - Se ha cambiado la cadencia del ciclista[0]:
+Cadencia: 120
+[0:00:05:05] - Cambio de viento: 3.33 m/s
+[0:00:10:00] - Cambio de viento: 0.0 m/s
+[0:00:20:00] - Cambio de viento: -3.33 m/s
+[0:00:28:08] - La pendiente para el ciclista[0] ha cambiado:
+Punto metrico actual: 703.6928562574594
+Pendiente actual: 5.0
+[0:00:31:03] - La pendiente para el ciclista[0] ha cambiado:
+Punto metrico actual: 824.3752823914369
+Pendiente actual: -10.0
+[0:00:35:00] - La pendiente para el ciclista[0] ha cambiado:
+Punto metrico actual: 1008.1129993572907
+Pendiente actual: 20.0
+[0:00:38:09] - La pendiente para el ciclista[0] ha cambiado:
+Punto metrico actual: 1203.6506213248329
+Pendiente actual: 0.0
+[0:00:38:09] - El ciclista 0 ha ganado
+[0:00:39:00] - El ciclista 0 ha llegado a la meta y es el ganador de la carrera
